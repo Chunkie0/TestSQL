@@ -1,5 +1,5 @@
 # TestSQL
-## Visualization of chinook.db [ClickMe]()
+## Visualization of chinook.db [Link](https://lucid.app/lucidchart/invitations/accept/inv_6742947f-b4fa-435c-9887-abeedac25cc0)
 
 ###  Description of constraints used in visualization:
 #### INTEGER - Numeric data type without decimal point
